@@ -39,4 +39,11 @@ export default defineConfig({
       message: "Powered by <a href='https://vitepress.dev/'>VitePress</a>",
     },
   },
+
+  markdown: {
+    theme: {
+      light: "catppuccin-latte",
+      dark: "catppuccin-mocha",
+    },
+  },
 });
