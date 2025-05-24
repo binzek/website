@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Abdul Wajid [binzek]'s Homepage
+title: binzek's Homepage
 
 hero:
   name: Abdul Wajid
