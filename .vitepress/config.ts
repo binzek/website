@@ -20,10 +20,18 @@ export default defineConfig({
       { text: "Contact", link: "/contact/" },
     ],
 
+    search: {
+      provider: "local",
+    },
+
     sidebar: [
       {
         items: [{ text: "Introduction", link: "/wiki/" }],
       },
     ],
+
+    footer: {
+      message: "Powered by <a href='https://vitepress.dev/'>VitePress</a>",
+    },
   },
 });
