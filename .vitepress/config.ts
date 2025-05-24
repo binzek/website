@@ -11,9 +11,13 @@ export default defineConfig({
   description: "",
 
   themeConfig: {
+    logo: "/icon.png",
+
     nav: [
-      { text: "Home", link: "/" },
       { text: "Digital Garden", link: "/wiki/" },
+      { text: "Projects", link: "/projects/" },
+      { text: "Blog", link: "/blog/" },
+      { text: "Contact", link: "/contact/" },
     ],
 
     sidebar: [
