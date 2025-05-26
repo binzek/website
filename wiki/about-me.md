@@ -2,6 +2,8 @@
 
 ---
 
+<img src="/me.webp" alt="a good boy" width="400" />
+
 I also have a desire that many people have - when talking about myself, I want to say it in the most impressive way. But the problem I've been facing lately is that when I talk about myself, I don't make the same impact I used to. Is it a problem with how I express myself, or is it that I'm no longer in a position to make such claims?
 
 Let's do one thing: I'll slowly add things that I understand about myself here.
