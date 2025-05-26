@@ -36,7 +36,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "Powered by <a href='https://vitepress.dev/'>VitePress</a>",
+      message:
+        "Powered by <a href='https://vitepress.dev/' target='_blank' rel='noopener'>VitePress</a>",
     },
   },
 
