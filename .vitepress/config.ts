@@ -1,22 +1,25 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  vite: {
-    server: {
-      allowedHosts: ["tunnel-3000.binzek.com"],
-    },
-  },
-
-  title: "Abdul Wajid [binzek] ~ A thinker who builds, a builder who cares.",
+  title: "binzek",
   titleTemplate: false,
   description:
     "Explore the digital home of Abdul Wajid [binzek] - a space for curated ideas in the digital garden, rare long-form writings, a showcase of variety of projects, and more.",
 
-  head: [["link", { rel: "icon", href: "/icon.png" }]],
+  head: [
+    ["link", { rel: "icon", href: "/icon.png" }],
+    [
+      "meta",
+      {
+        name: "og:title",
+        content:
+          "Abdul Wajid [binzek] ~ A thinker who builds, a builder who cares.",
+      },
+    ],
+  ],
 
   themeConfig: {
     logo: "/icon.png",
-    siteTitle: "binzek",
 
     nav: [
       { text: "Digital Garden", link: "/wiki/" },
