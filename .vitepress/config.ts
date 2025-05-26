@@ -32,11 +32,18 @@ export default defineConfig({
       provider: "local",
     },
 
-    sidebar: [
-      {
-        items: [{ text: "Introduction", link: "/wiki/" }],
-      },
-    ],
+    sidebar: {
+      "/wiki/": [
+        {
+          text: "Introduction",
+          items: [
+            { text: "👋 Welcome", link: "/wiki/" },
+            { text: "🌻 Digital Garden", link: "/wiki/digital-garden" },
+            { text: "🙋‍♂️ About Me", link: "/wiki/about-me" },
+          ],
+        },
+      ],
+    },
 
     footer: {
       message:
