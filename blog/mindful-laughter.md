@@ -1,10 +1,5 @@
 ---
 titleTemplate: binzek's Blog
-
-sidebar: false
-aside: false
-prev: false
-next: false
 ---
 
 # ചിരിക്ക്! മനസ്സറിഞ്ഞ് ചിരിക്ക്.

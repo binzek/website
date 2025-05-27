@@ -43,6 +43,12 @@ export default defineConfig({
           ],
         },
       ],
+
+      "/blog/": [
+        {
+          items: [{ text: "Mindful Laughter", link: "/blog/mindful-laughter" }],
+        },
+      ],
     },
 
     footer: {
