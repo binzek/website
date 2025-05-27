@@ -1,25 +1,16 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: "binzek",
+  title: "binzek's Website",
   titleTemplate: false,
   description:
     "Explore the digital home of Abdul Wajid [binzek] - a space for curated ideas in the digital garden, rare long-form writings, a showcase of variety of projects, and more.",
 
-  head: [
-    ["link", { rel: "icon", href: "/icon.png" }],
-    [
-      "meta",
-      {
-        name: "og:title",
-        content:
-          "Abdul Wajid [binzek] ~ A thinker who builds, a builder who cares.",
-      },
-    ],
-  ],
+  head: [["link", { rel: "icon", href: "/icon.png" }]],
 
   themeConfig: {
     logo: "/icon.png",
+    siteTitle: "binzek",
 
     nav: [
       { text: "Digital Garden", link: "/wiki/" },

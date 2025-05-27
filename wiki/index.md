@@ -1,3 +1,7 @@
+---
+title: binzek's Digital Garden
+---
+
 # Welcome
 
 ---

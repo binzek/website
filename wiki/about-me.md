@@ -1,3 +1,7 @@
+---
+titleTemplate: binzek's Digital Garden
+---
+
 # About Me
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Projects
+title: binzek's Projects
 
 hero:
   text: Projects

@@ -1,6 +1,6 @@
 ---
 sidebar: false
-aside: false
+title: Contact Abdul Wajid [binzek]
 ---
 
 # Get in Touch

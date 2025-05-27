@@ -2,6 +2,11 @@
 layout: home
 title: binzek's Homepage
 
+head:
+  - - meta
+    - name: og:title
+      content: Abdul Wajid [binzek] ~ A thinker who builds, a builder who cares.
+
 hero:
   name: Abdul Wajid
   text: aka ~ binzek

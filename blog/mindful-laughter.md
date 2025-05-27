@@ -1,4 +1,5 @@
 ---
+title: Mindful Laughter
 titleTemplate: binzek's Blog
 ---
 
@@ -61,3 +62,5 @@ titleTemplate: binzek's Blog
 ഇനി ഇതൊക്കെ വായിച്ച നിങ്ങളോട് ഒരു കാര്യം ചോദിക്കട്ടെ?
 
 "അവാസാനായിട്ട് ഇങ്ങള് എപ്പഴാ ഒന്ന് മനസ്സറിഞ്ഞ് ചിരിച്ചത്?"
+
+---
