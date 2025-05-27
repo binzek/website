@@ -1,6 +1,7 @@
 import DefaultTheme from "vitepress/theme";
 import { EnhanceAppContext } from "vitepress";
 import { inject } from "@vercel/analytics";
+import { injectSpeedInsights } from "@vercel/speed-insights";
 import "@catppuccin/vitepress/theme/mocha/rosewater.css";
 
 export default {
@@ -8,5 +9,6 @@ export default {
   enhanceApp(ctx: EnhanceAppContext) {
     DefaultTheme.enhanceApp(ctx);
     inject();
+    injectSpeedInsights();
   },
 };
