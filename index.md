@@ -9,11 +9,11 @@ hero:
 
   actions:
     - theme: brand
+      text: Get in Touch
+      link: /contact/
+    - theme: alt
       text: About Me
       link: /wiki/about-me
-    - theme: alt
-      text: Get In Touch
-      link: /contact/
 
 features:
   - icon: 🌱
