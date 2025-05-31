@@ -13,7 +13,7 @@ hero:
 
 features:
   - icon:
-      src: https://raw.githubusercontent.com/binzek/epoclip/refs/heads/main/icons/icon-32.png?token=GHSAT0AAAAAAC5WX6TIX3RDUNJDBKB2W3XK2BVQXCQ
+      src: https://lh3.googleusercontent.com/pDYPWPVS9Wj6W_aoL9JWGsYAMnymCXh6CZR16idhux3VpM0kUKjxs7Mu53xVU3oNiddszXk5gY8BQVifSNdWF5megg
       width: 32
     title: Epoclip
     details: Epoclip is a Chrome extension that lets you save and revisit moments from YouTube videos.
