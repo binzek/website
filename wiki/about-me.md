@@ -6,12 +6,16 @@ titleTemplate: binzek's Digital Garden
 
 ---
 
+എന്നെക്കുറിച്ച് പറയുകയാണെങ്കിൽ...
+
 <img src="/me.webp" alt="a good boy" width="400" />
 
-I also have a desire that many people have - when talking about myself, I want to say it in the most impressive way. But the problem I've been facing lately is that when I talk about myself, I don't make the same impact I used to. Is it a problem with how I express myself, or is it that I'm no longer in a position to make such claims?
+ഇതാണ് ഞാൻ.
 
-Let's do one thing: I'll slowly add things that I understand about myself here.
+പേര് അബ്ദുൽ വാജിദ് (Abdul Wajid). ഇന്റർനെറ്റിൽ _binzek_ എന്ന പേരിൽ അറിയപ്പെടുന്നു (അറിയപ്പെടാൻ ശ്രമിച്ചുകൊണ്ടിരിക്കുന്നു). ഇപ്പൊ 19 വയസ്സായി. ഒരു title കൊണ്ട് എന്നെ എങ്ങനെ define ചെയ്യണം എന്നെനിക്കറിയില്ല. എന്നാലും, കൊറച്ച് നല്ല കാര്യങ്ങളൊക്കെ ചെയ്ത് നല്ല രീതിയിൽ അങ്ങനെ ജീവിച്ച് പോവാൻ ആഗ്രഹിക്കുന്ന ഒരു പയ്യൻ (aspiring യുവാവ്).
 
-However, here's a short description:
+ശെരിക്കും ഞാൻ എന്നെ കുറിച്ച് തന്നെ പഠിച്ചോണ്ട് ഇരിക്കുന്നെ ഉള്ളൂ. ഞാൻ എന്തിന് ഇങ്ങനെ ആയി? എന്തിന് ഇതൊക്കെ ചെയ്യുന്നു? എന്തുകൊണ്ട് മറ്റവനെ പോലെ ആയില്ല? ഇതൊക്കെ ഇങ്ങനെ പതിയെ figure out ചെയ്ത് വരുന്നു. May be കൊറച്ച്കൂടെ idea ഒക്കെ കിട്ടീട്ട് ഞാൻ എന്നെ കുറിച്ച് വിശദമായി ഇവിടെ കുറിച്ചിടാം. അത് വരെ ഇത് ഇങ്ങനെ കിടക്കട്ടെ.
 
-My name is Abdul Wajid. I go by the name _binzek_ in online spaces. I'm 19 years old. It's hard to find peers who share my vibe, so it's easier for me to adapt to your vibe. I have a great interest in doing things differently from what everyone else is doing. That must be why, despite having all the facilities, I left home at the age of 17 to experiment, started my career at the age of 18, then went back to college and, as if that wasn't enough, started exploring some non-profit stuff lately.
+---
+
+> If you are looking for my professional history, it's best to look at my [CV](https://cdn.binzek.com/cv) or [LinkedIn](https://www.linkedin.com/in/binzek/). Not enough? just [connect](/contact/), let's have a chai together. ☕
