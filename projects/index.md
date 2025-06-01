@@ -17,8 +17,8 @@ features:
       width: 32
     title: Epoclip
     details: Epoclip is a Chrome extension that lets you save and revisit moments from YouTube videos.
-    link: https://github.com/binzek/epoclip
-    linkText: Source Code
+    link: https://chromewebstore.google.com/detail/epoclip-youtube-timestamp/pdiejnmnnedgnehlklcnmlflfhjapbid
+    linkText: Chrome Web Store
 
   - icon:
       src: https://writepost.live.binzek.com/icon.svg
